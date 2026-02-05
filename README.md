@@ -319,4 +319,4 @@ For questions about this free version:
 **QweeEngine 1.0.0** - The free, native 3D engine for Apple platforms. Build something amazing! ✨
 
 ---
-*Built with ❤️ for the Apple developer community. Last updated: January 2024.*
+*Built with ❤️ for the Apple developer community. Last updated: January 2026.*
